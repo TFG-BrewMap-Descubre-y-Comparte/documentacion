@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Mac System files
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Directorios de compilación
+build/
+dist/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de entorno
+.env
+
+# Dependencias de Spring Boot
+target/
+
+# Archivos de base de datos
+*.db
+
+# Archivos generados
+*.bak
+*.swp
+*.swo
+
+# Archivos temporales
+tmp/
+temp/
+
